@@ -1,0 +1,13 @@
+data/*
+notebooks/archive/*
+reports/PneumoniaCXR-AIDetect_Presentation_GK Slides.mp4
+reports/PneumoniaCXR-AIDetect_Presentation_GK Slides.pptx
+reports/PneumoniaCXR-AIDetect_Presentation_GK Slides.glides
+reports/PneumoniaCXR-AIDetect_Proposal.gdoc
+reports/PneumoniaCXR-AIDetect_Final Report.gdoc
+reports/PneumoniaCXR-AIDetect_Presentation.gslides
+references/*
+kaggle.json
+reports/figures/*
+reports/latex images/*
+reports/archive/*
