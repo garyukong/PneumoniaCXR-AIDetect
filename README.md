@@ -71,12 +71,10 @@ While the current model demonstrates strong performance, future developments cou
     │   ├── preprocessed                                                <- Data after initial preprocessing
     │   ├── features_extracted                                          <- Data after feature extraction and selection
     │   └── features_PCA                                                <- Data after dimensionality reduction (PCA applied)
-    │
     ├── notebooks
     │   ├── 1.0-eda_data_preprocessing.ipynb                            <- Notebook for preprocessing images 
     │   ├── 2.0-feature_engineering.ipynb                               <- Notebook for feature extraction, selection and PCA
     │   └── 3.0-modelling                                               <- Notebook for model training and evaluation
-    │
     └── reports
         ├── PneumoniaCXR-AIDetect_Presentation_vF.pdf                   <- Final project presentation
         └── PneumoniaCXR-AIDetect_Report_vF.pdf                         <- Final project report
